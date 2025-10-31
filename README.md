@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshBhatter
 - 👀 I’m interested in learning and implementing new coding skills.
-- 🌱 I’m currently learning frontend web developement
+- 🌱 I’m currently learning full stack web developement
 - 📫 reach me at : harshbhatter03@gmail.com
 
 <!---
