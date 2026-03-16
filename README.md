@@ -7,7 +7,7 @@
 • Codeforces Pupil  
 • CodeChef 3⭐  
 
-🚀 Currently learning Backend & Full Stack Development
+🚀Building full-stack applications with Spring Boot, MySQL and modern web technologies.
 
 🛠 Tech Stack  
 Java | Spring Boot | MySQL | JavaScript | REST APIs
