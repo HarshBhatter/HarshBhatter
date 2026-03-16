@@ -1,6 +1,15 @@
-- 👋 Hi, I’m @HarshBhatter
-- 👀 I’m interested in learning and implementing new coding skills.
-- 🌱 I’m currently learning full stack web developement
+B.E. Pre-Final Year @ Jadavpur University
+
+Competitive Programming
+• LeetCode Knight (1900+)
+• Codeforces Pupil
+• CodeChef 3★
+
+Interested in Backend Development and System Design.
+
+Tech Stack
+Java | Spring Boot | MySQL | REST APIs
+
 - 📫 reach me at : harshbhatter03@gmail.com
 
 <!---
