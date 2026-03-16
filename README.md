@@ -1,18 +1,15 @@
-B.E. Pre-Final Year @ Jadavpur University
+# Hi, I'm Harsh Bhatter 👋
 
-Competitive Programming
-• LeetCode Knight (1900+)
-• Codeforces Pupil
-• CodeChef 3★
+🎓 B.E. Pre-Final Year @ Jadavpur University  
 
-Interested in Backend Development and System Design.
+💻 Competitive Programming  
+• LeetCode Knight (1900+)  
+• Codeforces Pupil  
+• CodeChef 3⭐  
 
-Tech Stack
-Java | Spring Boot | MySQL | REST APIs
+🚀 Currently learning Backend & Full Stack Development
 
-- 📫 reach me at : harshbhatter03@gmail.com
+🛠 Tech Stack  
+Java | Spring Boot | MySQL | JavaScript | REST APIs
 
-<!---
-HarshBhatter/HarshBhatter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Reach me at: harshbhatter03@gmail.com
