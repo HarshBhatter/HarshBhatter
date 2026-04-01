@@ -3,7 +3,7 @@
 🎓 B.E. Pre-Final Year @ Jadavpur University  
 
 💻 Competitive Programming  
-• LeetCode Knight (1900+)  
+• LeetCode Knight (1950+)  
 • Codeforces Pupil  
 • CodeChef 3⭐  
 
