@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Bhatter 👋
 
-🎓 B.E. Pre-Final Year @ Jadavpur University  
+🎓 B.E. Final Year @ Jadavpur University  
 
 💻 Competitive Programming  
 • LeetCode Knight (1950+)  
